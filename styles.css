@@ -59,8 +59,9 @@ nav {
 }
 
 .logo-icon {
-    width: 36px;
-    height: 28px;
+    height: 30px;
+    width: auto;
+    object-fit: contain;
 }
 
 .nav-links {
@@ -109,10 +110,11 @@ header {
 }
 
 .hero-logo {
-    width: 160px;
-    height: 120px;
+    width: 280px;
+    height: 200px;
     margin-bottom: 2rem;
     animation: float 4s ease-in-out infinite;
+    object-fit: contain;
 }
 
 @keyframes float {
@@ -492,8 +494,9 @@ footer {
 }
 
 .logo-icon-small {
-    width: 30px;
-    height: 23px;
+    height: 24px;
+    width: auto;
+    object-fit: contain;
 }
 
 .footer-tagline {
