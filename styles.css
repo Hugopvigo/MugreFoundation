@@ -110,11 +110,11 @@ header {
 }
 
 .hero-logo {
-    width: 280px;
-    height: 200px;
+    width: 200px;
+    height: auto;
     margin-bottom: 2rem;
     animation: float 4s ease-in-out infinite;
-    object-fit: contain;
+    filter: drop-shadow(0 0 30px rgba(255, 102, 0, 0.25));
 }
 
 @keyframes float {
