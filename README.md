@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://hugopvigo.github.io/MugreFoundation/"><img alt="demo" src="https://img.shields.io/badge/Sitio-EN%20VIVO-f5a623?style=flat-square&labelColor=1a1a1e"></a>
   <img alt="stack" src="https://img.shields.io/badge/HTML%20%2B%20CSS%20%2B%20JS-sin%20dependencias-8E8E93?style=flat-square&labelColor=1a1a1e">
-  <img alt="licencia" src="https://img.shields.io/badge/sin%20anim%C3%B3%20de%20lucro-f5a623?style=flat-square&labelColor=1a1a1e">
+  <img alt="licencia" src="https://img.shields.io/badge/licencia-CC%20BY--NC--SA%204.0-5F6368?style=flat-square&labelColor=1a1a1e">
 </p>
 
 ---
@@ -81,9 +81,12 @@ MugreFoundation/
 
 ## Licencia
 
-**El repositorio no tiene fichero `LICENSE`.** El pie de la web dice
-«Open source, sin ánimo de lucro» y la página de contacto ofrece hablar de
-cualquier hardware, pero el código todavía no tiene una licencia formal
-asignada.
+El código de este repositorio está bajo **CC BY-NC-SA 4.0**: se puede compartir
+y adaptar con fines no comerciales, citando al autor y manteniendo la misma
+licencia. Texto completo en [`LICENSE`](LICENSE).
+
+El pie de la web dice «Open source, sin ánimo de lucro» y la página de contacto
+ofrece hablar de cualquier hardware: si buscas algo que la licencia no cubra,
+escríbeme.
 
 Si quieres reutilizarlo o participar, mejor escríbeme primero y lo aclaramos.
