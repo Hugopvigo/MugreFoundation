@@ -1,3 +1,7 @@
+<meta property="og:title" content="MUGREFOUNDATION">
+<meta property="og:description" content="La web de MugreFoundation: una iniciativa para donar hardware de IA que sobra.">
+<meta property="og:image" content="https://raw.githubusercontent.com/Hugopvigo/MugreFoundation/main/docs/capturas/og.png">
+
 <p align="center">
   <img src="docs/capturas/00-cabecera.png" alt="MugreFoundation — donación de hardware de IA a quien lo necesita" width="100%">
 </p>
